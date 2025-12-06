@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "玩具",
+  "base_artist": "V.W.P",
+  "createdAt": "2025-12-06T15:13:59.605417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "玩具 (Toy)",
+      "artist": "たかやん",
+      "has_synced": true,
+      "path": "select/01_玩具_(Toy)_たかやん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/02_玩具_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/03_玩具_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/04_玩具_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "顺子",
+      "has_synced": true,
+      "path": "select/05_玩具_顺子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "玩具",
+      "artist": "V.W.P, 花譜, 理芽, ヰ世界情緒, 春猿火, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_玩具_V.W.P,_花譜,_理芽,_ヰ世界情緒,_春猿火,_幸祜.txt"
+    }
+  ]
+}
